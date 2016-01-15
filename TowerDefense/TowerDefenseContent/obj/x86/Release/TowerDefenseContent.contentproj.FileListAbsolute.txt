@@ -1,0 +1,5 @@
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Release\TowerDefenseContent.contentprojResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense23.23.42\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\Attack On Geeks V0.2 Source Code\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Release\ResolveAssemblyReference.cache

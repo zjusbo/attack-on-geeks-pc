@@ -1,0 +1,253 @@
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\arrow tower.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\slow tower.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\spike tower.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\tool bar.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\arrow button.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\arrow hover.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\arrow pressed.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\slow button.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\slow hover.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\slow pressed.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\spike button.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\spike hover.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\spike pressed.xnb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.exe
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.pdb
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.exe
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.pdb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\tool bar.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1button.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1hover.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1pressed.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.exe
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.pdb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.exe
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.pdb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t1 tower.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3button.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3pressed.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3hover.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2button.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2pressed.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2hover.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t2 tower.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t3 tower.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t5 tower.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t6 tower.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5button.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5hover.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5pressed.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6button.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6hover.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6pressed.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4button.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4pressed.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4hover.xnb
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t4 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.pdb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Arial.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t1 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\bullet.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\grass.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\path.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t5 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t6 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\tool bar.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t2 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t3 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t4 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.pdb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student1.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student2.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student3.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student4.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Arial.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t1 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\bullet.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\grass.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\path.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t5 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t6 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\tool bar.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t2 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t3 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4button.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4pressed.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4hover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t4 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student1.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student2.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student3.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student4.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.pdb
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.pdb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t1 tower.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t5 tower.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t6 tower.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\tool bar.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1button.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1hover.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t1pressed.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5button.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5hover.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t5pressed.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6button.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6hover.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t6pressed.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3button.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3pressed.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t3hover.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2button.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2pressed.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t2hover.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t2 tower.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t3 tower.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4button.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4pressed.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\t4hover.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\t4 tower.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student1.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student2.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student3.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\student4.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Audio\background.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Audio\set.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Audio\spawn.xnb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.exe
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.pdb
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.exe
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.pdb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Audio\background.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Audio\set.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Audio\spawn.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.exe
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.pdb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.exe
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.pdb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t6 tower.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\tool bar.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Students\student1.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Students\student2.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Students\student3.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Students\student4.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t1 tower.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t5 tower.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t4 tower.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t3 tower.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t2 tower.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Arial.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t6 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\tool bar.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Students\student4.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Students\student2.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Students\student3.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Students\student1.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t1 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t5 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t4 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t3 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Towers\t2 tower.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Movies\gameover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\exit.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\newGame.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Audio\background.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Audio\set.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Audio\spawn.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Arial.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Movies\video.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Movies\video.wmv
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.exe.manifest
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.application
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.pdb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.exe.manifest
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.application
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.pdb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\map.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\paper.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\help\help1.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\help\help2.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\help\help3.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Movies\gamewin.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\exit.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\GUI\newGame.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\map.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\paper.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Movies\gameover.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Movies\gamewin.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\help\help1.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\help\help2.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\help\help3.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Movies\video.xnb
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\Movies\video.wmv
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.exe.manifest
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\TowerDefense.application
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.exe.manifest
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\obj\x86\Debug\TowerDefense.application
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefense\bin\x86\Debug\Content\paperbreak.xnb

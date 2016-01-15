@@ -1,0 +1,7 @@
+C:\Users\Fan_Xie\Documents\Visual Studio 2010\Projects\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fan_Xie\AppData\Local\Temp\TowerDefense (1)\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense2_fan\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense1124\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fan_Xie\Desktop\game\TowerDefensenew\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1234\Desktop\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Debug\TowerDefenseContent.contentprojResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense1125\TowerDefense\TowerDefense\TowerDefenseContent\obj\x86\Debug\ResolveAssemblyReference.cache

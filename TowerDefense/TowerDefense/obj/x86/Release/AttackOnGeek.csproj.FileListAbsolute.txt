@@ -1,0 +1,120 @@
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\tool bar.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student2.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student3.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student4.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student1.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\exit.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\newGame.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\map.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\paper.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\gameover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\gamewin.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\help\help1.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\help\help2.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\help\help3.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\paperbreak.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\credits.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Audio\background.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Audio\set.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Audio\spawn.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Arial.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\video.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\creditVideo.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\video.wmv
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\creditVideo.wmv
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.exe.manifest
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.application
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.pdb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\obj\x86\Release\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.exe.manifest
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.application
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.pdb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t1teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t2teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t3teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t4teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t5teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t6teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\tool bar.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student2.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student3.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student4.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student1.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\exit.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\newGame.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\map.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\paper.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\gameover.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\gamewin.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\help\help1.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\help\help2.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\help\help3.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\paperbreak.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\credits.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t1teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t2teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t3teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t4teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t5teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t6teacher.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Audio\background.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Audio\set.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Audio\spawn.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Arial.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\video.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\creditVideo.xnb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\video.wmv
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\creditVideo.wmv
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.exe.manifest
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.application
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.pdb
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\ResolveAssemblyReference.cache
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.exe.manifest
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.application
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.exe
+E:\studyInHK\Game Design\ass2\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.pdb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\tool bar.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student2.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student3.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student4.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Students\student1.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\exit.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\newGame.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\map.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\paper.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\gameover.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\gamewin.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\help\help1.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\help\help2.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\help\help3.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\paperbreak.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\GUI\credits.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t1teacher.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t2teacher.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t3teacher.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t4teacher.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t5teacher.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Teachers\t6teacher.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Audio\background.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Audio\set.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Audio\spawn.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Arial.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\video.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\creditVideo.xnb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\video.wmv
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\Content\Movies\creditVideo.wmv
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.exe.manifest
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.application
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.exe
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\bin\x86\Release\TowerDefense.pdb
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\AttackOnGeek.csprojResolveAssemblyReference.cache
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.exe.manifest
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.application
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.exe
+C:\Users\1234\Desktop\TowerDefense_final\TowerDefense\TowerDefense\obj\x86\Release\TowerDefense.pdb
